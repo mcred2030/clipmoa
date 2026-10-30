@@ -1,0 +1,13 @@
+title: ClipMoa
+description: 담아두면, 정리됩니다
+lang: ko
+baseurl: "/clipmoa"
+url: "https://mcred2030.github.io"
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
