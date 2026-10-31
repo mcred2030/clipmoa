@@ -30,7 +30,7 @@ ClipMoa의 개발자는 이용자의 개인정보를 받거나 보관하지 않�
     - 보내지 않는 것: 이미지·영상·파일 원본, Apple 계정, 위치, 기기 식별자.
     - 이용자의 기기에서 그 회사 서버로, 이용자가 넣은 키로 바로 보냅니다. 개발자는 내용을 받지도 보지도 않습니다.
     - 보낸 내용에는 그 회사의 약관과 개인정보 처리방침이 적용됩니다: [Anthropic](https://www.anthropic.com/legal/privacy) · [Google](https://policies.google.com/privacy) · [Gemini API 약관](https://ai.google.dev/gemini-api/terms) · [OpenAI](https://openai.com/policies/privacy-policy/)
-    - Gemini 무료 등급 키로 보내면 Google이 내용을 제품 개선에 쓰고 사람이 검토할 수 있습니다. 결제를 연결한 키는 그렇게 쓰지 않습니다.
+    - Gemini는 결제를 연결한 키(유료 등급)로 쓰도록 안내합니다. 무료 등급 키로 보내면 Google이 내용을 제품 개선에 쓰고 사람이 검토할 수 있습니다. 결제를 연결한 키는 그렇게 쓰지 않습니다.
 - **iCloud 동기화**: 2항의 항목이 이용자의 iCloud를 거쳐 이용자의 다른 기기로 갑니다.
 - **이용자가 고른 곳**: 내보내기나 옵시디언 볼트 연결을 쓰면 이용자가 고른 위치에 파일로 저장합니다.
 - 클라우드 AI 회사와 Apple의 서버는 대한민국 밖에 있을 수 있습니다.
