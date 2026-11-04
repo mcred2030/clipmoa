@@ -7,13 +7,14 @@ description: ClipMoa Privacy Policy
 
 # ClipMoa Privacy Policy
 
-The developer of ClipMoa does not receive or keep your personal information. The items you save stay only on your devices and in your iCloud (iPhone and Mac), and in your Google Drive if you turn on Google Drive sync. Cloud AI is used only if you turn it on yourself, and then content is sent directly to that company with your own key. This policy covers both the iPhone and Mac app and the Android app; anything that applies to only one of them says so.
+Apart from email you choose to send, the developer of ClipMoa does not receive or keep your personal information. The items you save stay only on your devices and in your iCloud (iPhone and Mac), and in your Google Drive if you turn on Google Drive sync. Cloud AI is used only if you turn it on yourself, and then content is sent directly to that company with your own key. This policy covers both the iPhone and Mac app and the Android app; anything that applies to only one of them says so.
 
 Effective date: November 5, 2026 · Developer: ByoungRak Song
 
 ## 1. Information the developer receives
-- None. The app has no sign-up, login, ads, analytics tools or tracking, and the developer runs no servers.
-- The only exception is crash reports. If you turn on "Share with App Developers" in your device settings on iPhone and Mac, Apple — and if you turn on sharing usage and diagnostics with Google on Android, Google Play — passes crash reports and usage statistics to the developer in a form that does not identify you.
+- The app sends nothing to the developer. It has no sign-up, login, ads, analytics tools or tracking, and the developer runs no servers.
+- Crash reports: If you turn on "Share with App Developers" in your device settings on iPhone and Mac, Apple — and if you turn on sharing usage and diagnostics with Google on Android, Google Play — passes crash reports and usage statistics to the developer in a form that does not identify you.
+- Email you send: If you write to the developer with a question or to report an AI result, the developer receives your address and message and uses them only to reply and to fix the app. On Android, tapping Report next to a summary only opens your email app with the model name, the summary and the app version filled in; you check it, edit it and send it yourself.
 
 ## 2. Information stored on your devices
 - Items you save: photos and screenshots, links, shared text, text read from images, titles, summaries, tags and categories, and any edits you make.
